@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">ConversionApp</string>
+    <string name="convert_temp">Temperature</string>
+    <string name="convert_dist">Distance</string>
+    <string name="choose_converter">Choose a converter</string>
 </resources>
