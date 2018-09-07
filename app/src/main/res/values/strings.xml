@@ -3,4 +3,18 @@
     <string name="convert_temp">Temperature</string>
     <string name="convert_dist">Distance</string>
     <string name="choose_converter">Choose a converter</string>
+    <string name="inches">Inches</string>
+    <string name="feet">Feet</string>
+    <string name="miles">Miles</string>
+    <string name="hint">Enter a number</string>
+    <string name="convertToMetres">Convert to metres</string>
+    <string name="convert">Convert</string>
+    <string name="defaultResult">= 0 cm</string>
+    <string name="is_equal_to">is equal to</string>
+    <string name="default_temp_result">0</string>
+    <string-array name="temperature_array">
+        <item>C° Celsius</item>
+        <item>F° Fahrenheit</item>
+        <item>K° Kelvin</item>
+    </string-array>
 </resources>
